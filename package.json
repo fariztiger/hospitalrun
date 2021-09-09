@@ -61,5 +61,8 @@
       "**/webpack",
       "**/webpack/**"
     ]
+  },
+  "dependencies": {
+    "packages": "0.0.8"
   }
 }
